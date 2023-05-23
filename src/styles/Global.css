@@ -1,0 +1,25 @@
+*{
+    color: black;
+    font-family: Verdana;
+    background-color: #D7D0C8;
+}
+button{
+    background-color: #BD897E;
+    color:white;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #F87666;
+    color: white;
+}
+.sign-in-form{
+    position: relative;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.form-field{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
